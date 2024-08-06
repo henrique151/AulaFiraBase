@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217200969165",
+    "project_id": "aulapam-54076",
+    "storage_bucket": "aulapam-54076.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217200969165:android:cc4e7f13269789d761f084",
+        "android_client_info": {
+          "package_name": "com.example.aulapamfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzn2Q69tMHTvP38-8l5IEuAFqXWFzhatM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
